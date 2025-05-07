@@ -1,40 +1,56 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.3.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="XrLnO912Jv1oN71-e2fB">
-    <mxGraphModel dx="864" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="945" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vif7123QISbDYjLLOfTG-3" value="One&lt;div&gt;CBSUA&lt;/div&gt;&lt;div&gt;System&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Tahoma;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="e-euCJg0s_twbzaNsyGK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vif7123QISbDYjLLOfTG-3" target="vif7123QISbDYjLLOfTG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-euCJg0s_twbzaNsyGK-5" value="services and knowledge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e-euCJg0s_twbzaNsyGK-4">
+          <mxGeometry x="0.1875" y="1" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-euCJg0s_twbzaNsyGK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vif7123QISbDYjLLOfTG-3" target="vif7123QISbDYjLLOfTG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-euCJg0s_twbzaNsyGK-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e-euCJg0s_twbzaNsyGK-6">
+          <mxGeometry x="0.0935" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vif7123QISbDYjLLOfTG-3" value="One&lt;div&gt;CBSUA&lt;/div&gt;&lt;div&gt;System&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Tahoma;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vif7123QISbDYjLLOfTG-5" value="Government Agencies/ Funding Agencies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vif7123QISbDYjLLOfTG-5" value="Government Agencies/ Funding Agencies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vif7123QISbDYjLLOfTG-6" value="Enrolled Students and Prospective Students" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vif7123QISbDYjLLOfTG-6" value="Enrolled Students and Prospective Students" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="40" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vif7123QISbDYjLLOfTG-7" value="Teaching and&lt;div&gt;Non-Teaching Personnel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vif7123QISbDYjLLOfTG-7" value="Teaching and&lt;div&gt;Non-Teaching Personnel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vif7123QISbDYjLLOfTG-8" value="Other Higher Education Institution (HEIs) and Organizations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vif7123QISbDYjLLOfTG-8" value="Other Higher Education Institution (HEIs)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="40" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vif7123QISbDYjLLOfTG-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vif7123QISbDYjLLOfTG-9" value="Alumni and Benefactors" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vif7123QISbDYjLLOfTG-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vif7123QISbDYjLLOfTG-10" value="Partner Organizations" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vif7123QISbDYjLLOfTG-11" value="Service Providers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vif7123QISbDYjLLOfTG-11" value="Service Providers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vif7123QISbDYjLLOfTG-12" value="Policy Makers&lt;div&gt;(Legislative, Executive)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vif7123QISbDYjLLOfTG-12" value="Policy Makers&lt;div&gt;(Legislative, Executive)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vif7123QISbDYjLLOfTG-13" value="International Partners" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vif7123QISbDYjLLOfTG-13" value="International Partners" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="220" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vif7123QISbDYjLLOfTG-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vif7123QISbDYjLLOfTG-14" value="Local Communities&lt;div&gt;and Industries&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="220" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
